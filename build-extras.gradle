@@ -11,7 +11,7 @@ allprojects {
     repositories {
         jcenter()
         maven {
-            url  "http://tokbox.bintray.com/maven"
+            url  "https://search.maven.org/artifact/com.opentok.android/opentok-android-sdk"
         }
     }
 }
